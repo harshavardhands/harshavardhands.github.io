@@ -1,4 +1,4 @@
-# LLM Basics – Simple & Clear
+# LLM Basics
 
 ## 1. What is an LLM?
 **LLM (Large Language Model)** is an AI trained on huge amounts of text to understand and generate human-like text.
