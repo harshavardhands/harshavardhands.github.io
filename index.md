@@ -7,15 +7,13 @@ Notes on LLMs, system design, and architecture.
 
 ## 📝 Articles
 
-{% if site.posts.size > 0 %}
-<ul>
-  {% for post in site.posts %}
-  <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a><br>
-    <small>{{ post.date | date: "%B %d, %Y" }}</small>
-  </li>
-  {% endfor %}
-</ul>
-{% else %}
-<p>No articles found.</p>
-{% endif %}
+{% for post in site.posts %}
+### [{{ post.title }}]({{ post.url | relative_url }})
+
+<small>{{ post.date | date: "%B %d, %Y" }}</small>
+
+{{ post.excerpt | strip_html | truncate: 200 }}
+
+---
+
+{% endfor %}
