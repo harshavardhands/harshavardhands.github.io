@@ -1,4 +1,9 @@
-# LLM Basics
+---
+layout: post
+title: "LLM Basics"
+date: 2025-12-23
+excerpt: "A simple introduction to large language models and how they work."
+---
 
 ## 1. What is an LLM?
 **LLM (Large Language Model)** is an AI trained on huge amounts of text to understand and generate human-like text.
