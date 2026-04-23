@@ -2,11 +2,7 @@
 layout: default
 title: Home
 ---
-
-# Welcome 👋
-
 Notes on LLMs, system design, and architecture.
-
 ---
 
 ## 📝 Articles
