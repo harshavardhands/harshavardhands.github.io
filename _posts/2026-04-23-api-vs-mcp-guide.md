@@ -1,3 +1,9 @@
+---
+layout: post
+title: "From APIs to MCP: A Beginner-Friendly Guide"
+date: 2026-04-23
+excerpt: "Understand the difference between APIs and MCP, and how MCP enables AI-driven integrations."
+---
 # From APIs to MCP: A Beginner-Friendly Guide
 
 If you already understand APIs, you’re halfway there.
