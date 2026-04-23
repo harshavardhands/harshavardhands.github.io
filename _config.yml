@@ -1,3 +1,5 @@
+title: Harshavardhans Notes
+description: Notes on LLMs, system design, and architecture.
 theme: minima
-title: AI Tech Notes
-description: LLM, System Design & Architecture
+markdown: kramdown
+permalink: /:title/
